@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Web Application using PHP for the backend, and HTML/CSS/JavaScript for the frontend. Web application aimed to provide an easy-to-use platform for users to browse and purchase fitness programs that suit their needs. Created web pages some navigation among them. Functioning login page, with data stored in the database and in the web application. Created a search feature and the user registration feature. After, created features for users to have the ability to add, delete, and edit items from the page. Lastly, ensured there was a focus on security measures.
+Web Application using PHP for the backend, and HTML/CSS/JavaScript for the frontend. Web application is aimed to provide an easy-to-use platform for users to browse and purchase fitness programs that suit their needs. I created web pages with some navigation among them. Also, Functioning login page, with data stored in the database and in the web application. I created a search feature, user registration features, and features for users to have the ability to add, delete, and edit items from the page. Lastly, ensured there was a focus on security measures.
 <br />
 
 
